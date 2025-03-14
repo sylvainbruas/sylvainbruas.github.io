@@ -12,13 +12,16 @@
 
 ## Conformité
 - Prowler: [https://github.com/prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
-- cloudsploit : [https://github.com/aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit )
+- Cloudsploit : [https://github.com/aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit )
 
 <br/>
 <br/>
 
 ## Sécurité
 - ScoutSuite : [https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
+- AWS Vault : [https://github.com/99designs/aws-vault](https://github.com/99designs/aws-vault)
+- Checkov : [https://github.com/bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+- Trivy : [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 
 <br/>
 <br/>
@@ -29,7 +32,9 @@
 <br/>
 
 ## Opérations
-- Cloud Custodian: [https://cloudcustodian.io/](https://cloudcustodian.io/)
+- Cloud Custodian : [https://cloudcustodian.io/](https://cloudcustodian.io/)
+- Ansible : [https://github.com/ansible/ansible](https://github.com/ansible/ansible)
+- SaltStack : [https://saltproject.io/](https://saltproject.io/)
 
 
 <br/>
@@ -59,3 +64,10 @@
 - Cloudfox : [https://github.com/BishopFox/cloudfox](https://github.com/BishopFox/cloudfox)
 
 - Cloudsplaining : [https://github.com/salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining)
+
+- Policy Sentry : [https://github.com/salesforce/policy_sentry](https://github.com/salesforce/policy_sentry)
+
+- KICS : [https://www.kics.io/](https://www.kics.io/)
+
+- Terrascan : [https://github.com/tenable/terrascan](https://github.com/tenable/terrascan)
+
