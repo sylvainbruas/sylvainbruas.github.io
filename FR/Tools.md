@@ -4,12 +4,15 @@
 ## Gouvernance
 - A secure cloud: [https://asecure.cloud/](https://asecure.cloud/) 
 - AWS nuke: [https://github.com/rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 
-- Cloud Intelligence Dashboards: https://catalog.workshops.aws/awscid/
+- Cloud Intelligence Dashboards: [https://catalog.workshops.aws/awscid/](https://catalog.workshops.aws/awscid/)
+- Steampipe : [https://steampipe.io/](https://steampipe.io/)
 
 ## Conformité
-- Prowler: [https://github.com/prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) 
+- Prowler: [https://github.com/prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+- cloudsploit : [https://github.com/aquasecurity/cloudsploit (https://github.com/aquasecurity/cloudsploit )]
 
 ## Sécurité
+- ScoutSuite : [https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 
 ## Réseau
 
@@ -28,7 +31,16 @@
 - HashiCorp Terraform : [https://www.terraform.io/](https://www.terraform.io/)
 
 - Opentofu : [https://opentofu.org/](https://opentofu.org/)
- 
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+# A évaluer
+
+- Cloudfox : [https://github.com/BishopFox/cloudfox](https://github.com/BishopFox/cloudfox)
 
 
