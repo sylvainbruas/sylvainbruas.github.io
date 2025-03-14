@@ -27,6 +27,8 @@
 <br/>
 
 ## Réseau
+- Visual Subnet Calculator : [https://visualsubnetcalc.com/](https://visualsubnetcalc.com/)
+- CloudPing : [https://www.cloudping.info/](https://www.cloudping.info/)
 
 <br/>
 <br/>
@@ -36,6 +38,12 @@
 - Ansible : [https://github.com/ansible/ansible](https://github.com/ansible/ansible)
 - SaltStack : [https://saltproject.io/](https://saltproject.io/)
 
+
+<br/>
+<br/>
+
+## FinOps
+- AWS Data Transfer Costs : [AWS Data Transfer Costs](AWS-transfert-cost.png) - [source](https://github.com/open-guides/og-aws/blob/master/figures/aws-data-transfer-costs.png)
 
 <br/>
 <br/>
@@ -70,4 +78,6 @@
 - KICS : [https://www.kics.io/](https://www.kics.io/)
 
 - Terrascan : [https://github.com/tenable/terrascan](https://github.com/tenable/terrascan)
+
+- Gatling : [https://gatling.io/](https://gatling.io/)
 
