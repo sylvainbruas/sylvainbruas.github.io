@@ -7,18 +7,33 @@
 - Cloud Intelligence Dashboards: [https://catalog.workshops.aws/awscid/](https://catalog.workshops.aws/awscid/)
 - Steampipe : [https://steampipe.io/](https://steampipe.io/)
 
+<br/>
+<br/>
+
 ## Conformité
 - Prowler: [https://github.com/prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
-- cloudsploit : [https://github.com/aquasecurity/cloudsploit (https://github.com/aquasecurity/cloudsploit )]
+- cloudsploit : [https://github.com/aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit )
+
+<br/>
+<br/>
 
 ## Sécurité
 - ScoutSuite : [https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 
+<br/>
+<br/>
+
 ## Réseau
+
+<br/>
+<br/>
 
 ## Opérations
 - Cloud Custodian: [https://cloudcustodian.io/](https://cloudcustodian.io/)
 
+
+<br/>
+<br/>
 
 ## Automatisation
 - AWS Cloudformation : [https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
@@ -43,4 +58,4 @@
 
 - Cloudfox : [https://github.com/BishopFox/cloudfox](https://github.com/BishopFox/cloudfox)
 
-
+- Cloudsplaining : [https://github.com/salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining)
