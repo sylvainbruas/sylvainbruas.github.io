@@ -37,6 +37,7 @@
 - Cloud Custodian : [https://cloudcustodian.io/](https://cloudcustodian.io/)
 - Ansible : [https://github.com/ansible/ansible](https://github.com/ansible/ansible)
 - SaltStack : [https://saltproject.io/](https://saltproject.io/)
+- Packer : [https://developer.hashicorp.com/packer](https://developer.hashicorp.com/packer)
 
 
 <br/>
